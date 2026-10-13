@@ -11,7 +11,8 @@ Preliminary research manuscript and executable-model specification using Horn cl
 
 ## Contents
 - [MANUSCRIPT.md](MANUSCRIPT.md) — full preliminary manuscript, claim register, method, and validation pipeline
-- [provenance.als](provenance.als) — Alloy consistency-gate model
+- [provenance.als](provenance.als) — Alloy consistency-gate model (invariants restated as lemmas)
+- [alloy-results.md](alloy-results.md) — successful discharge of all lemmas (UNSAT checks at scope 4)
 - [corpus/](corpus/) — edition-locked excerpts (C7, AG, UT, UP) with inspection rules
 - [collations/](collations/) — alignment and negative-finding structure + templates
 
